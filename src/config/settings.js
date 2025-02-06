@@ -6,7 +6,7 @@ const settings = {
         API_URL: 'http://localhost:8000',
     },
     production: {
-        API_URL: 'https://backend-prueba-3.onrender.com/',
+        API_URL: 'https://backend-prueba-3.onrender.com',
     },
 };
 
